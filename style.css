@@ -195,7 +195,6 @@ body {
   width: 80%;
   text-align: center;
 }
-
 .innnerContainer img {
   border-radius: 20px;
   transition: all 0.3s ease;
@@ -252,20 +251,13 @@ body {
 }
 
 footer{
-  /* border: 2px solid black; */
   height: 150px;
   background-color: #dee1e2;
   margin-bottom: 0px;
 }
 
-/* .line{
-  box-shadow: #333;
-  background-color: #333;
-} */
-
 .footer-basic {
   box-shadow: #4b4c4d;
-  /* padding: 40px 0; */
   background-color: #716f6f00;
   color: #4b4c4d;
   position: relative;
